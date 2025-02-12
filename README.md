@@ -38,9 +38,6 @@ healthcare-chatbot/
 │── README.md       # Documentation
 ```
 
-## 📷 UI Preview
-![Healthcare Chatbot UI](images/banner.jpg)
-
 ## 📚 Technologies Used
 - **Python** 🐍
 - **Streamlit** 🎨 (For Web UI)
